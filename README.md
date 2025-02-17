@@ -51,19 +51,19 @@ Figure 3: This picture above visualises the collaboration among different subfie
 
 <br>
 
-<img src="math_cs_colab.png" width="800" height="520"></iframe>
+<img src="math_cs_colab.png" width="800" height="520">
 
 Figure 4: This bar graph represents the inter departmental collaborations between Mathematics and Computer Science over a period of about the last 30 years. We would like to point out a  few interesting observations that we made from this. The amount of collaborative work between Mathematics and Computer Science has an overall increasing trend. The number of collaborations reached a sort of plateau around 2011-2016 but it saw a strong increase in around 2017 onwards. This, we believe, is due to the popularity of emerging fields like Machine Learning and AI.
 
 <br>
 
-<img src="math_stat.png" width="800" height="520"></iframe>
+<img src="math_stat.png" width="800" height="520">
 
 Figure 5: This bar graph represents the inter departmental collaborations between Mathematics and Statistics over a period of about the last 30 years. As the broad field of data science incorporates elements of statistics and several subfields of applied mathematics, this graph may show a correlation with the rise in popularity of data science itself. Since, in the past decade, most Fortune 100 companies have taken an interest in, if not invested heavily into, data mining and analysis for the purposes of strategy refinement (among others), this rise may be a response to the increased demand for employees who specialise in such fields.
 
 <br>
 
-<img src="stat_cs_colab.png" width="800" height="520"></iframe>
+<img src="stat_cs_colab.png" width="800" height="520">
 
 Figure 6: This bar graph here represents the inter departmental collaborations between Statistics and Computer Science over a period of about the last 30 years. One interesting thing we observe from this graph is that Statistics and Computer Science did not used to have too many collaborative works but the amount of collaborations between CS and Stats have started to grow in recent times. One reason for this we think is that the Statistics department here is comparatively new and have started to expand only recently and another reason we think is the popularity of ML and AI. These two research areas have become increasingly popular recently and it is around the same time when the collaborations between CS and Stats started picking up.
 
